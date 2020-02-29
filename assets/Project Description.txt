@@ -1,0 +1,13 @@
+﻿The project agreed with CocoLab Aps is to create custom views for mobile phones and a resource page. The custom mobile views are not going to be just a responsive design, they will be remade entirely but the same database connection and AI api calls will be used as the ones they have right now. The custom views are necessary because their current website doesn't allow just a responsive design because of the way it is made and they want to be able to deliver to their customer no matter what device he is on. They want an entirely different layout, not just a scaled down one of what they have. They don’t have any specific requirements for the moment as they expect us to make the design, code everything and use the tools and techniques that we think fit best.
+
+
+The resource page will be a new page containing articles, downloadable ebooks and videos from which the customer could learn more about how to use their services correctly as well as tips on how to manage their campaigns and influencer marketing in general. 
+The current requirements for the resource page are as follows:
+1. Should be displayed in a grid
+2.The user should have the ability to filter items by their type (article,video,e-book)
+3.The user should be able to save their post and later review all his saved posts in one place
+3.The user should be able to store and save his notes under every post
+4.The notes should be customizable through an implemented editor ex.bullet points,text size etc. () 
+5.Established connection to their own database
+6.There should be a featured post
+7.Everything should be easily configurable through a custom made admin panel

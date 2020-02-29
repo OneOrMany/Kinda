@@ -1,13 +1,6 @@
-body, html {
-    height: 100%;
-}
-body {
-    background-image: url(/assets/background.jpg) !important;
-    height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
-}
+
 main {
     margin-top: 320px;
+    font-style: times;
 }
+
